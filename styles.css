@@ -1,0 +1,31 @@
+.button {
+  text-align: center;
+}
+body {
+  width: 1700px;
+  height: 2000px;
+  background-color: rgb(161, 222, 166);
+}
+.paragraph {
+  text-align-last: left;
+  font-size: 40px;
+}
+.heading {
+  text-align: center;
+}
+.image1 {
+  text-align: center;
+}
+.image2 {
+  text-align: center;
+}
+h1 {
+  font-size: 60px;
+  text-shadow: 2px 2px 5px;
+}
+h2 {
+  font-size: 40px;
+}
+h3 {
+  font-size: 30px;
+}
